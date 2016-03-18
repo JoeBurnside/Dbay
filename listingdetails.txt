@@ -1,0 +1,10 @@
+
+Item Details
+Item Name: Bible
+Description: Covered in red pen.
+Price: £2.99
+Date Listed: 13/01/2014
+
+======================================
+
+Report Printed on: 11/05/2014
